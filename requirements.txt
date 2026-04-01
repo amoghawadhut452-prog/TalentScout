@@ -1,0 +1,3 @@
+streamlit
+openai  #if using open ai api key
+python-dotenv  #if using .env for API keys
